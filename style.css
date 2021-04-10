@@ -1,5 +1,5 @@
-body{
-    background-color: rgb(201, 236, 147);
+body {
+  background-color: rgb(201, 236, 147);
 }
 
 .col-md-6 {
@@ -7,5 +7,13 @@ body{
 }
 
 .mypicture {
-  width: 400px;
+  max-width: 100%;
+}
+
+.card {
+  margin: 10px;
+}
+i {
+    color: red;
+    font-size: 50px;
 }
