@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(201, 236, 147);
+}
+
+.col-md-6 {
+  border: 3px dotted red;
+}
+
+.mypicture {
+  width: 400px;
+}
